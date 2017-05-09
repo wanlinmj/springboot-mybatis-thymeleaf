@@ -29,7 +29,7 @@ public class Application {
          *  2、 git push -u origin master
          *  3、 git branch (若果报错： error: src refspec master does not match any. error: failed to push some refs to 'https://github.com/wanlinmj/springboot-mybatis-thymeleaf.git')
          *  4、 git commit -m "test"
-         *  5、 git push -u origin master
+         *  5、 git push -u origin master  git push origin master git status
          */
 
     }
